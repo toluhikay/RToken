@@ -1,0 +1,30 @@
+{
+  "name": "rtoken",
+  "version": "1.0.0",
+  "description": "",
+  "main": "truffle-config.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dappuniversity/starter_kit.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/dappuniversity/starter_kit/issues"
+  },
+  "homepage": "https://github.com/dappuniversity/starter_kit#readme",
+  "dependencies": {
+    "identicon.js": "^2.3.3",
+    "web3": "^1.7.3"
+  },
+  "devDependencies": {
+    "chai": "^4.3.6"
+  }
+}
